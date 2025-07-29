@@ -8,14 +8,10 @@ This repository contains the design specifications for an advanced robot elbow j
 ### 🔧 Main Structure (U-Shape Design)
 - **Overall Height**: 65.00mm
 - **Base Width**: 54.00mm
+- **base type**: circuler shape for mount the link
 - **Wall Thickness**: 4.50mm (each side)
 - **Inner Cavity**: 30.00mm diameter circular recess
 - **Design Type**: U-shaped bracket for secure motor mounting
-
-### ⚙️ Motor Mounting Interface
-- **Motor Mount Diameter**: Ø45.00mm precision cut
-- **Mounting Hole**: Centered circular opening for motor shaft
-- **Tolerance**: ±0.1mm for perfect motor fit
 
 ### 🎨 Design Features
 - **Filleted Edges**: Smooth radius transitions for stress distribution
@@ -35,7 +31,6 @@ This repository contains the design specifications for an advanced robot elbow j
 
 ### 🛡️ Structural Integrity
 - **Load Distribution**: U-shape design distributes stress evenly
-- **Fatigue Resistance**: Designed for >1,000,000 cycles
 - **Wear Resistance**: Self-lubricating nylon surface
 - **Dimensional Stability**: Minimal deformation under load
 
@@ -117,9 +112,9 @@ The design includes detailed technical drawings showing:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-- **Project Maintainer**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile]
+- **Project Maintainer**: [khaledsulimani]
+- **Email**: khaled.sul2004@gmail.com
+- **LinkedIn**: [later]
 
 ## 🙏 Acknowledgments
 - CAD design team for precision engineering
@@ -136,6 +131,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📈 Version History
 - **v1.0.0** - Initial design release
 - **v1.1.0** - Added filleted edges for improved durability
+  
+---
+
+## 📸 Project photo
+![صورة واتساب بتاريخ 1447-02-05 في 00 31 51_108dfcaf](https://github.com/user-attachments/assets/4e156286-b7a3-4a78-82c1-08d7f2c0ec3c)
+
+![صورة واتساب بتاريخ 1447-02-05 في 00 31 53_1cb96cdd](https://github.com/user-attachments/assets/dc497a15-4b7a-4d0b-ae55-ace5a1cc6b87)  
+![صورة واتساب بتاريخ 1447-02-05 في 00 31 53_daea3231](https://github.com/user-attachments/assets/25e33da7-1705-495b-aff3-fb5f6a42b851)
+
+  ---
+  
+## 🧑‍💻 Author
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
 - **v1.2.0** - Optimized wall thickness for weight reduction
 
 ---
