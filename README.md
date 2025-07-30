@@ -144,7 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 ## 🧑‍💻 Author
 - **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
-- **v1.2.0** - Optimized wall thickness for weight reduction
 
 ---
 *This elbow joint represents the perfect balance of strength, precision, and durability for professional robotic applications.*
